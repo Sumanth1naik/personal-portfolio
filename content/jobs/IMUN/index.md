@@ -1,13 +1,11 @@
 ---
-date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+date: '2023-07-01'
+title: 'Part Time Software Engineering Intern'
+company: 'Luisa Express'
 location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+range: 'July 2023 - December 2024'
+url: '#'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Contributed to the development of a real-time vehicle tracking web application using the Google Maps API.
+- Diagnosed and resolved software bugs to enhance application functionality and improve user experience.

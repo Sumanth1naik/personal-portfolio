@@ -1,12 +1,13 @@
 ---
-date: '2020-09-21'
-title: 'Member'
-company: 'DSV - SVVV'
-location: remote
-range: 'Sep 2020 - Present'
-url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
+date: '2023-08-01'
+title: 'Software Engineering Intern'
+company: 'SII Group'
+location: Hybrid (Oujda, Morocco)
+range: 'August 2023 - September 2023'
+url: 'https://www.sii-group.com/'
 ---
 
-- Grown knowledge in a peer-to-peer learning environment.
-- Build solutions for local businesses and the community.
-- Attained several technical workshops.
+- Designed and developed a centralized HR management web solution, automating 70% of HR tasks.
+- Created user interfaces with Next.js and Material-UI, using JSONServer for rapid prototyping.
+- Developed the backend with Spring Boot, MySQL, and Docker for deployment.
+- Gained experience in teamwork and code quality maintenance with Git, GitLab, Scrum, and Jira.

@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
-subtitle: 'I love exploring new things!'
+name: 'BOUTAHAR Walid'
+subtitle: 'Building Scalable IT Solutions to Solve Complex Problems'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
+Fourth-year Software Engineering student pursuing a double degree at IMT Nord Europe, with a strong foundation in Full-Stack Development and Devops.
 
-I enjoy learning new skills and implementing them in real life!
+ <p align="justify">A results-driven professional, committed to developing efficient, and inventive IT solutions to address complex technical challenges. My enthusiasm for technology is backed by extensive hands-on experience in software development, where I have consistently delivered strategic and high-quality solutions through diverse practical experience.</p>

@@ -3,20 +3,15 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Coding
-  - Reading
-  - Painting
-  - Crafting
   - Problem Solving
   - Team Management
   - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Walid Boutahar, a fourth-year Software Engineering student pursuing a double degree at IMT Nord Europe.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+<p align="justify">I am passionate about software development and DevOps, specializing in creating scalable solutions and optimizing workflows. Through my internship experiences, I have developed strong technical skills and honed my ability to collaborate in diverse environments while maintaining high-quality standards. I am always eager to apply my knowledge and seek new opportunities for growth.
+</p> 
+<p align="justify">Throughout my career, I have consistently aimed to enhance my expertise and contribute to the tech community. Whether mentoring aspiring developers, working in Agile teams, or implementing DevOps practices, I am dedicated to delivering impactful solutions and continuously advancing in the field of software engineering.</p>
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
-
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
-
-Here are a few of the other activities that I love to do!
+<u><strong>Skills Summary:</strong></u>
